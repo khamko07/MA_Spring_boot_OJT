@@ -1,0 +1,168 @@
+2026-06-03 16:40:39.108 INFO  [           main] Output_OJT_MA.DemoApplication            : Starting DemoApplication using Java 21.0.10 with PID 5612 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-03 16:40:39.109 INFO  [           main] Output_OJT_MA.DemoApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-06-03 16:40:39.175 WARN  [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2026-06-03 16:40:39.329 ERROR [           main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.server.servlet.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2026-06-03 16:41:23.413 INFO  [           main] Output_OJT_MA.DemoApplication            : Starting DemoApplication using Java 21.0.10 with PID 31028 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-03 16:41:23.414 INFO  [           main] Output_OJT_MA.DemoApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-06-03 16:41:23.479 WARN  [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2026-06-03 16:41:23.630 ERROR [           main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.server.servlet.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2026-06-03 16:47:44.799 INFO  [           main] Output_OJT_MA.DemoApplication            : Starting DemoApplication using Java 21.0.10 with PID 26008 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-03 16:47:44.801 INFO  [           main] Output_OJT_MA.DemoApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-06-03 16:47:44.862 WARN  [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2026-06-03 16:47:45.018 ERROR [           main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.server.servlet.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2026-06-03 16:51:47.918 INFO  [           main] c.m.M.MaOjtGradleApplication             : Starting MaOjtGradleApplication using Java 21.0.10 with PID 25060 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-03 16:51:47.923 INFO  [           main] c.m.M.MaOjtGradleApplication             : No active profile set, falling back to 1 default profile: "default"
+2026-06-03 16:51:49.081 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-03 16:51:49.083 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-03 16:51:49.084 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-03 16:51:50.013 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-03 16:51:50.431 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@349aeec4
+2026-06-03 16:51:50.432 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-03 16:51:51.192 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-03 16:51:52.126 WARN  [           main] .s.a.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: d94d3cdf-28e6-418e-87db-7bff0e05dec9
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-06-03 16:51:52.351 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-03 16:51:52.386 INFO  [           main] c.m.M.MaOjtGradleApplication             : Started MaOjtGradleApplication in 5.004 seconds (process running for 5.565)
+2026-06-03 16:53:58.865 INFO  [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-03 16:58:29.384 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-03 16:58:29.389 INFO  [n(10)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-03 16:58:29.409 INFO  [n(10)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-03 16:58:29.416 INFO  [n(10)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-03 16:58:55.822 INFO  [           main] Output_OJT_MA.DemoApplication            : Starting DemoApplication using Java 21.0.10 with PID 13664 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-03 16:58:55.825 INFO  [           main] Output_OJT_MA.DemoApplication            : No active profile set, falling back to 1 default profile: "default"
+2026-06-03 16:58:55.904 WARN  [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server
+2026-06-03 16:58:56.085 ERROR [           main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web application could not be started as there was no org.springframework.boot.web.server.servlet.ServletWebServerFactory bean defined in the context.
+
+Action:
+
+Check your application's dependencies for a supported servlet web server.
+Check the configured web application type.
+
+2026-06-03 17:05:40.426 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Starting MaOjtGradleApplication using Java 21.0.10 with PID 1320 (C:\Company\Project\MA_OJT_Gradle\build\classes\java\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-03 17:05:40.428 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-06-03 17:05:41.476 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:05:41.478 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-03 17:05:41.478 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-03 17:05:42.112 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-03 17:05:42.244 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2d3d4a54
+2026-06-03 17:05:42.246 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-03 17:05:45.290 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-03 17:05:47.036 WARN  [           main] .s.a.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 86bb68f3-6484-4781-af59-c412d3822aa1
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-06-03 17:05:47.549 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:05:47.614 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Started MaOjtGradleApplication in 7.701 seconds (process running for 8.102)
+2026-06-03 17:06:47.564 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Starting MaOjtGradleApplication using Java 21.0.10 with PID 11724 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-03 17:06:47.565 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-06-03 17:06:48.579 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:06:48.580 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-03 17:06:48.580 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-03 17:06:49.119 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-03 17:06:49.239 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1382a7d8
+2026-06-03 17:06:49.240 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-03 17:06:50.152 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-03 17:06:50.628 WARN  [           main] .s.a.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 80c4b843-bdac-4b30-8a71-d62fd3a649bd
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-06-03 17:06:50.772 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:06:50.791 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Started MaOjtGradleApplication in 3.559 seconds (process running for 3.957)
+2026-06-03 17:08:43.701 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:08:43.707 INFO  [on(5)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:08:43.722 INFO  [on(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-03 17:08:43.728 INFO  [on(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-03 17:09:02.232 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Starting MaOjtGradleApplication using Java 21.0.10 with PID 33604 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-03 17:09:02.234 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-06-03 17:09:03.095 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:09:03.097 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-03 17:09:03.097 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-03 17:09:03.620 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-03 17:09:03.736 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2c978637
+2026-06-03 17:09:03.738 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-03 17:09:04.654 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-03 17:09:05.126 WARN  [           main] .s.a.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: bbb705f9-468f-41c4-aece-ba1bba508ca5
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2026-06-03 17:09:05.265 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:09:05.284 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Started MaOjtGradleApplication in 3.381 seconds (process running for 3.797)
+2026-06-03 17:09:25.840 INFO  [nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-03 17:10:48.870 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:10:48.881 INFO  [on(4)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:10:48.908 INFO  [on(4)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-03 17:10:48.917 INFO  [on(4)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-03 17:13:02.376 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Starting MaOjtGradleApplication using Java 21.0.10 with PID 35284 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-03 17:13:02.379 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-06-03 17:13:04.192 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:13:04.195 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-03 17:13:04.195 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-03 17:13:05.460 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-03 17:13:05.688 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@118e2487
+2026-06-03 17:13:05.693 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-03 17:13:07.560 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-03 17:13:08.629 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-03 17:13:08.661 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Started MaOjtGradleApplication in 7.08 seconds (process running for 8.028)
+2026-06-03 17:13:17.215 INFO  [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-03 18:00:26.724 WARN  [l-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=44m20s873ms145µs700ns).
+2026-06-03 22:21:18.829 WARN  [l-1:housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h10m50s910ms41µs900ns).

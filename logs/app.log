@@ -1,0 +1,4 @@
+2026-06-04 00:04:52.258 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-04 00:04:52.352 INFO  [(125)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-04 00:04:52.577 INFO  [(125)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-04 00:04:52.589 INFO  [(125)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
