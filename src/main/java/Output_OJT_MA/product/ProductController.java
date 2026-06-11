@@ -1,5 +1,6 @@
 package Output_OJT_MA.product;
 
+import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -27,12 +28,12 @@ public class ProductController {
     }
 
     @PostMapping
-    public ResponseEntity<ProductDto> createProduct(@RequestBody ProductDto productDto) {
+    public ResponseEntity<ProductDto> createProduct(@Valid @RequestBody ProductDto productDto) {
         return ResponseEntity.ok(productService.createProduct(productDto));
     }
 
     @PutMapping("/{id}")
-    public ResponseEntity<ProductDto> updateProduct(@PathVariable(name = "id") Long id, @RequestBody ProductDto productDto) {
+    public ResponseEntity<ProductDto> updateProduct(@PathVariable(name = "id") Long id, @Valid @RequestBody ProductDto productDto) {
         return ResponseEntity.ok(productService.updateProduct(id, productDto));
     }
 

@@ -1,17 +1,15 @@
 package test;
 
+interface Hello {
+    void say();
+}
+
 public class Main {
+
     public static void main(String[] args) {
 
-        try {
+        Hello h = () -> System.out.println("Hello");
 
-            int result = 10 / 0;
-
-            System.out.println(result);
-
-        } catch (ArithmeticException e) {
-
-            System.out.println("Can not divide by zero");
-        }
+        h.say();
     }
 }

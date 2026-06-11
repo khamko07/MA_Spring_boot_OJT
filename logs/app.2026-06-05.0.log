@@ -1,0 +1,125 @@
+2026-06-05 14:52:14.783 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Starting MaOjtGradleApplication using Java 21.0.10 with PID 19180 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-05 14:52:14.786 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-06-05 14:52:15.718 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:52:15.719 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-05 14:52:15.719 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-05 14:52:16.266 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-05 14:52:16.409 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1aca6dc3
+2026-06-05 14:52:16.411 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-05 14:52:17.299 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-05 14:52:17.826 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:52:17.845 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Started MaOjtGradleApplication in 3.373 seconds (process running for 3.767)
+2026-06-05 14:52:33.901 INFO  [nio-8080-exec-4] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-05 14:52:45.896 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:52:45.903 INFO  [on(5)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:52:45.924 INFO  [on(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-05 14:52:45.933 INFO  [on(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-05 14:53:50.357 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Starting MaOjtGradleApplication using Java 21.0.10 with PID 27004 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-05 14:53:50.360 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-06-05 14:53:51.254 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:53:51.255 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-05 14:53:51.256 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-05 14:53:51.845 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-05 14:53:51.960 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34e4fb39
+2026-06-05 14:53:51.961 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-05 14:53:52.866 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-05 14:53:53.397 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:53:53.415 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Started MaOjtGradleApplication in 3.388 seconds (process running for 3.794)
+2026-06-05 14:53:59.384 INFO  [nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-05 14:54:08.749 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:54:08.755 INFO  [on(4)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:54:08.771 INFO  [on(4)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-05 14:54:08.775 INFO  [on(4)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-05 14:54:35.256 INFO  [           main] t.validation.ValidationDemoApplication   : Starting ValidationDemoApplication using Java 21.0.10 with PID 26580 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-05 14:54:35.259 INFO  [           main] t.validation.ValidationDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2026-06-05 14:54:36.083 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:54:36.085 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-05 14:54:36.085 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-05 14:54:36.600 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-05 14:54:36.708 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@718d6b7c
+2026-06-05 14:54:36.709 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-05 14:54:37.108 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-05 14:54:37.626 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:54:37.642 INFO  [           main] t.validation.ValidationDemoApplication   : Started ValidationDemoApplication in 2.705 seconds (process running for 3.104)
+2026-06-05 14:54:43.683 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:54:43.688 INFO  [on(4)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:54:43.705 INFO  [on(4)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-05 14:54:43.710 INFO  [on(4)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-05 14:54:51.466 INFO  [           main] t.validation.ValidationDemoApplication   : Starting ValidationDemoApplication using Java 21.0.10 with PID 37020 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-05 14:54:51.468 INFO  [           main] t.validation.ValidationDemoApplication   : No active profile set, falling back to 1 default profile: "default"
+2026-06-05 14:54:52.271 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:54:52.273 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-05 14:54:52.273 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-05 14:54:52.779 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-05 14:54:52.900 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1b994617
+2026-06-05 14:54:52.901 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-05 14:54:53.284 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-05 14:54:53.813 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:54:53.832 INFO  [           main] t.validation.ValidationDemoApplication   : Started ValidationDemoApplication in 2.712 seconds (process running for 3.139)
+2026-06-05 14:54:58.348 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:54:58.351 INFO  [on(2)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-05 14:54:58.364 INFO  [on(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-05 14:54:58.368 INFO  [on(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-05 15:21:24.050 INFO  [           main] training.jpa.JpaDemoApplication          : Starting JpaDemoApplication using Java 21.0.10 with PID 12208 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-05 15:21:24.055 INFO  [           main] training.jpa.JpaDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2026-06-05 15:21:25.032 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-05 15:21:25.033 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-05 15:21:25.033 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-05 15:21:25.658 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-05 15:21:25.777 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3051e476
+2026-06-05 15:21:25.779 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-05 15:21:26.739 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-05 15:21:27.326 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-05 15:21:27.344 INFO  [           main] training.jpa.JpaDemoApplication          : Started JpaDemoApplication in 3.612 seconds (process running for 3.999)
+2026-06-05 15:22:09.382 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-05 15:22:09.387 INFO  [on(6)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-05 15:22:09.400 INFO  [on(6)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-05 15:22:09.407 INFO  [on(6)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-05 15:22:33.538 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Starting MaOjtGradleApplication using Java 21.0.10 with PID 11852 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-05 15:22:33.539 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-06-05 15:22:34.385 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-05 15:22:34.388 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-05 15:22:34.388 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-05 15:22:34.894 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-05 15:22:35.007 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@36fe83d
+2026-06-05 15:22:35.008 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-05 15:22:35.833 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-05 15:22:36.340 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-05 15:22:36.357 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Started MaOjtGradleApplication in 3.129 seconds (process running for 3.549)
+2026-06-05 15:22:43.999 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-05 15:22:44.003 INFO  [on(4)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-05 15:22:44.016 INFO  [on(4)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-05 15:22:44.020 INFO  [on(4)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-05 15:39:45.532 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Starting MaOjtGradleApplication using Java 21.0.10 with PID 7140 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-05 15:39:45.536 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-06-05 15:39:46.827 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-05 15:39:46.829 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-05 15:39:46.829 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-05 15:39:47.618 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-05 15:39:47.793 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@e04b8a0
+2026-06-05 15:39:47.794 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-05 15:39:49.077 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-05 15:39:49.839 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-05 15:39:49.871 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Started MaOjtGradleApplication in 4.846 seconds (process running for 5.645)
+2026-06-05 15:39:57.430 INFO  [nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-05 16:27:34.744 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-05 16:27:34.787 INFO  [n(54)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-05 16:27:34.951 INFO  [n(54)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-05 16:27:34.962 INFO  [n(54)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2026-06-05 16:33:32.022 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Starting MaOjtGradleApplication using Java 21.0.10 with PID 11580 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-05 16:33:32.024 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : No active profile set, falling back to 1 default profile: "default"
+2026-06-05 16:33:33.377 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-05 16:33:33.378 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-05 16:33:33.379 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-05 16:33:34.288 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-05 16:33:34.456 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@36fe83d
+2026-06-05 16:33:34.458 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-05 16:33:35.903 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-05 16:33:36.837 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-05 16:33:36.864 INFO  [           main] Output_OJT_MA.MaOjtGradleApplication     : Started MaOjtGradleApplication in 5.353 seconds (process running for 6.035)
+2026-06-05 16:34:06.372 INFO  [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-05 16:34:21.527 INFO  [io-8080-exec-10] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 518 ms
+2026-06-05 16:38:54.960 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-05 16:38:54.966 INFO  [on(9)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-05 16:38:54.981 INFO  [on(9)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-05 16:38:54.990 INFO  [on(9)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

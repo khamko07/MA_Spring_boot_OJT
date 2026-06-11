@@ -3,6 +3,7 @@ package Output_OJT_MA.common;
 public class MessageRes<T> {
     private String type;
     private String message;
+    private T data;
 
     public MessageRes() {
     }
@@ -10,6 +11,12 @@ public class MessageRes<T> {
     public MessageRes(String type, String message) {
         this.type = type;
         this.message = message;
+    }
+
+    public MessageRes(String type, String message, T data) {
+        this.type = type;
+        this.message = message;
+        this.data = data;
     }
 
     public String getType() {
@@ -26,5 +33,13 @@ public class MessageRes<T> {
 
     public void setMessage(String message) {
         this.message = message;
+    }
+
+    public T getData() {
+        return data;
+    }
+
+    public void setData(T data) {
+        this.data = data;
     }
 }

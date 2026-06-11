@@ -1,0 +1,16 @@
+2026-06-09 14:40:52.093 INFO  [           main] t.e.EmployeeManagementApplication        : Starting EmployeeManagementApplication using Java 21.0.10 with PID 17764 (C:\Company\Project\MA_OJT_Gradle\bin\main started by asus in C:\Company\Project\MA_OJT_Gradle)
+2026-06-09 14:40:52.097 INFO  [           main] t.e.EmployeeManagementApplication        : No active profile set, falling back to 1 default profile: "default"
+2026-06-09 14:40:53.009 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Initializing ProtocolHandler ["http-nio-8080"]
+2026-06-09 14:40:53.011 INFO  [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-06-09 14:40:53.012 INFO  [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.21]
+2026-06-09 14:40:53.663 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2026-06-09 14:40:53.798 INFO  [           main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6e617c0e
+2026-06-09 14:40:53.799 INFO  [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2026-06-09 14:40:55.053 WARN  [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-06-09 14:40:55.733 INFO  [           main] o.a.coyote.http11.Http11NioProtocol      : Starting ProtocolHandler ["http-nio-8080"]
+2026-06-09 14:40:55.752 INFO  [           main] t.e.EmployeeManagementApplication        : Started EmployeeManagementApplication in 4.004 seconds (process running for 4.431)
+2026-06-09 14:52:52.307 INFO  [nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-06-09 23:58:37.226 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol      : Pausing ProtocolHandler ["http-nio-8080"]
+2026-06-09 23:58:37.270 INFO  [(561)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol      : Stopping ProtocolHandler ["http-nio-8080"]
+2026-06-09 23:58:37.634 INFO  [(561)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-06-09 23:58:37.654 INFO  [(561)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

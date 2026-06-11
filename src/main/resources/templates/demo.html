@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="${title}">Trang Demo</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+        .box { border: 2px solid #4CAF50; padding: 20px; border-radius: 10px; display: inline-block; }
+        h1 { color: #4CAF50; }
+    </style>
+</head>
+<body>
+
+    <div class="box">
+        <!-- Lấy dữ liệu chữ 'title' từ Model đắp vào đây -->
+        <h1 th:text="${title}">Tiêu đề mặc định</h1>
+        
+        <!-- Lấy dữ liệu chữ 'message' từ Model đắp vào đây -->
+        <p th:text="${message}">Tin nhắn mặc định</p>
+        
+        <hr>
+        <p><i>Giao diện này đại diện cho chữ <b>V (View)</b> trong mô hình MVC!</i></p>
+    </div>
+
+</body>
+</html>

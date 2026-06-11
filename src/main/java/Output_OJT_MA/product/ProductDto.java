@@ -1,9 +1,18 @@
 package Output_OJT_MA.product;
 
+import jakarta.validation.constraints.Min;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
+
 public class ProductDto {
 
     private Long id;
+
+    @NotBlank(message = "Ten san phan khong the do trong đc")
     private String name;
+
+    @NotNull(message = "Gia san phan khong the de trong dc")
+    @Min(value = 0, message = "Gia san pham phai lon hon hoac bang 0")
     private Double price;
 
     public ProductDto() {

@@ -19,7 +19,8 @@ public class ProductServiceImpl implements IProductService {
 
     @Override
     public List<ProductDto> getAllProducts() {
-        return productRepository.findAll().stream()
+    	List<Product> listProduct = productRepository.findAll();
+        return listProduct.stream()
                 .map(this::mapToDto)
                 .collect(Collectors.toList());
     }
@@ -37,7 +38,9 @@ public class ProductServiceImpl implements IProductService {
 
     @Override
     public ProductDto createProduct(ProductDto productDto) {
-        Product product = new Product(null, productDto.getName(), productDto.getPrice());
+        Product product = new Product();
+        product.setName(productDto.getName());
+        product.setPrice(productDto.getPrice());
         Product savedProduct = productRepository.save(product);
         return mapToDto(savedProduct);
     }
